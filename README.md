@@ -197,4 +197,4 @@ This repository serves as the official landing page for HolzShots. The software 
 **Get the most recent version of HolzShots today!**
 
 ---
-**Last updated:** 2026-11-14 14:36:40 UTC
+**Last updated:** 2026-11-14 19:34:15 UTC
